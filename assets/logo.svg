@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d">
+<title id="t">After School Engineering logo</title>
+<desc id="d">A gear surrounding a playful rocket.</desc>
+<circle cx="60" cy="60" r="55" fill="#eef7fd"/>
+<g fill="#0a4f83">
+<rect x="54" y="3" width="12" height="22" rx="4"/>
+<rect x="54" y="95" width="12" height="22" rx="4"/>
+<rect x="3" y="54" width="22" height="12" rx="4"/>
+<rect x="95" y="54" width="22" height="12" rx="4"/>
+<rect x="18" y="16" width="12" height="22" rx="4" transform="rotate(-45 24 27)"/>
+<rect x="90" y="82" width="12" height="22" rx="4" transform="rotate(-45 96 93)"/>
+<rect x="18" y="82" width="12" height="22" rx="4" transform="rotate(45 24 93)"/>
+<rect x="90" y="16" width="12" height="22" rx="4" transform="rotate(45 96 27)"/>
+<circle cx="60" cy="60" r="39"/>
+</g>
+<circle cx="60" cy="60" r="28" fill="#fff"/>
+<path d="M60 25c11 12 15 24 12 34l-12 9-12-9c-3-10 1-22 12-34z" fill="#ff8b22"/>
+<circle cx="60" cy="44" r="6" fill="#ffd54f"/>
+<path d="M49 59l-10 8 11 3zm22 0l10 8-11 3z" fill="#2fc27c"/>
+<path d="M56 68h8l-4 16z" fill="#ffd54f"/>
+</svg>

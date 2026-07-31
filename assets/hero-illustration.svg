@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 610" role="img">
+<defs>
+<linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#e8f6ff"/>
+</linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#062946" flood-opacity=".24"/>
+</filter>
+</defs>
+<rect x="86" y="63" width="588" height="478" rx="40" fill="url(#panel)" filter="url(#shadow)"/>
+<g opacity=".42" stroke="#8dc4e7" fill="none" stroke-width="2">
+<path d="M130 140h190M130 170h130M440 424h180M440 454h125"/>
+<circle cx="540" cy="205" r="88" stroke-dasharray="8 8"/>
+<path d="M130 490h160M130 505h105"/>
+</g>
+<g transform="translate(430 88)">
+<path d="M105 0c52 55 66 116 39 170l-39 29-39-29C39 116 53 55 105 0z" fill="#ff8b22"/>
+<path d="M105 0c17 18 31 38 41 57H64c10-19 24-39 41-57z" fill="#ffd54f"/>
+<circle cx="105" cy="91" r="23" fill="#0a4f83"/>
+<circle cx="105" cy="91" r="12" fill="#bfe9ff"/>
+<path d="M67 164l-50 40 57 7zm76 0l50 40-57 7z" fill="#2fc27c"/>
+<path d="M88 198h34l-17 62z" fill="#ffd54f"/>
+</g>
+<g transform="translate(118 232)">
+<circle cx="120" cy="125" r="83" fill="#ffd54f"/>
+<path d="M83 88c0-49 75-53 75 2 0 28-23 31-27 58h-22c-3-26-26-30-26-60z" fill="#fff"/>
+<rect x="106" y="146" width="29" height="31" rx="8" fill="#ff8b22"/>
+<path d="M120 38V5M52 67L27 42M188 67l25-25M44 138H9M196 138h35" stroke="#0a4f83" stroke-width="10" stroke-linecap="round"/>
+<circle cx="120" cy="125" r="95" fill="none" stroke="#0a4f83" stroke-width="8" stroke-dasharray="12 10"/>
+</g>
+<g transform="translate(292 385)">
+<path d="M0 80h180" stroke="#0a4f83" stroke-width="12" stroke-linecap="round"/>
+<path d="M12 76l28-62 28 62 28-62 28 62 28-62 28 62" fill="none" stroke="#2fc27c" stroke-width="10" stroke-linejoin="round"/>
+<rect x="16" y="78" width="16" height="38" rx="5" fill="#ff8b22"/>
+<rect x="148" y="78" width="16" height="38" rx="5" fill="#ff8b22"/>
+</g>
+<g font-family="Arial, sans-serif" font-weight="700" fill="#0a4f83">
+<text x="130" y="118" font-size="22">IMAGINE</text>
+<text x="130" y="150" font-size="22">BUILD</text>
+<text x="130" y="182" font-size="22">TEST</text>
+</g>
+</svg>
